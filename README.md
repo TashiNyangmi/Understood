@@ -11,7 +11,8 @@ The two populations refer to the sub-group with and without a High School degree
 
 1.   Null hypothesis: The proportions of wives working for the two populations are equal.
 
-2.   Alternative hypothesis: The proportions of wives working for the two populations are different. (More specifically, the proportions of wives working is greater for those without HS degree)
+2.   Alternative hypothesis: The proportions of wives working for the two populations are different. 
+     (More specifically, the proportions of wives working is greater for those without HS degree)
 
 Notations
 
@@ -23,3 +24,6 @@ Hypothesis
 2.   Alternative  :  HS_no_w - HS_yes_w >0
 
 ```
+![GitHub Markdown Cheat Sheet](/Images/H11.png)
+
+
