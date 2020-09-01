@@ -24,6 +24,18 @@ Hypothesis
 2.   Alternative  :  HS_no_w - HS_yes_w >0
 
 ```
-![GitHub Markdown Cheat Sheet](/Images/H11.png)
+![HighSchool](/images/H13.png)
+
+We can observe that the proportion of wives working for the two populations seem different.
+We need conduct t-test to determine if the difference is statistically significant.
+###### T-Test Results
+
+1.   t-statistic is positive
+2.   p-value = 0.0006 (i.e. p-value < 0.05).
+
+Hence, we are able to successfully reject the null 
+hypothesis 
+
+
 
 
