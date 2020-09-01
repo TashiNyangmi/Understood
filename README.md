@@ -1,5 +1,28 @@
 
 # Understood Take Home <br>
+#### google colab notebook (Understood_org2.ipynb) structure
+```
+1.Setting up the Environment: Importing Libraries and Dataset
+2. User Defined Functions
+3. EDA
+     3.1) Preliminary EDA
+     3.2) Histogram of all Variables
+     3.3) Box plots, & Pairpolots
+     3.4) Heatmap
+     3.5) High School education vs work status
+4. Hypotheses
+     4.1) Hypothesis #1
+          4.1.1) Test
+          4.1.2) Visualization
+     4.2) Hypothesis #1
+          4.2.1) Test
+          4.2.2) Visualization
+          4.2.3) Optional Further Analysis
+     4.3) Hypothesis #1
+          4.3.1) Test
+          4.3.2) Visualization
+
+```
 ## Analysis Summary
 ### 3 Hypotheses
 Data Dictionary (Mroz) : https://rdrr.io/rforge/Ecdat/man/Mroz.html <br>
