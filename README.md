@@ -5,8 +5,9 @@
 Data Dictionary (Mroz) : https://rdrr.io/rforge/Ecdat/man/Mroz.html <br>
 Pre-determined alpha = 0.05
 
+#### Hypothesis 1
 ```
-1st Hypothesis
+
 **ASSUMPTION** : 12 years of educational attainment signifies HS degree
 
 The two populations refer to the sub-group with and without a High School degree (at least).
@@ -37,10 +38,10 @@ We need to conduct t-test to determine if the difference is statistically signif
 
 Hence, we are able to successfully reject the null 
 hypothesis 
+<hr>
 
-
+#### Hypothesis 2
 ```
-2nd Hypothesis
 
 The two populations refer to the sub-group with and without work.
 
@@ -70,10 +71,13 @@ Hypothesis
 2.   p-value = (3.14*e-09)/2 (i.e. p-value < 0.05)
 
 
-Hence, we are able to successfully reject the null hypothesis
+Hence, we are able to successfully reject the null hypothesis.
+
+<hr>
+
+#### Hypothesis 3
 
 ```
-3rd Hypothesis
 
 The two populations refer to the sub-group of wifes with both parents with atleast 7 years of education, and those without.
 
@@ -107,4 +111,6 @@ Hypothesis
 2.   p-value = (0.0136)/2 (i.e. p-value < 0.05)
 
 
-Hence, we are able to successfully reject the null hypothesis
+Hence, we are able to successfully reject the null hypothesis.
+
+<hr>
