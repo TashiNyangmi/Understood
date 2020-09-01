@@ -1,5 +1,7 @@
 
 # Understood Take Home <br>
+## Analysis Summary
+### 3 Hypotheses
 Data Dictionary (Mroz) : https://rdrr.io/rforge/Ecdat/man/Mroz.html <br>
 Pre-determined alpha = 0.05
 
