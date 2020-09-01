@@ -102,7 +102,8 @@ Hence, we are able to successfully reject the null hypothesis.
 
 ```
 
-The two populations refer to the sub-group of wifes with both parents with atleast 7 years of education, and those without.
+The two populations refer to the sub-group of wifes with both parents with atleast 7 years of education,
+ and those without.
 
 1.   Null hypothesis: The proportions of wives working for the two populations are equal.
 
