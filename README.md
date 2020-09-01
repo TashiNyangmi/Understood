@@ -44,7 +44,8 @@ The two populations refer to the sub-group with and without work.
 
 1.   Null hypothesis: The mean of the number of children under age 6 for the two populations are equal
 
-2.   Alternative hypothesis: The mean of the number of children under age 6 for the sub population with work is greater than that of without work.
+2.   Alternative hypothesis: The mean of the number of children under age 6 for the sub population with 
+                             work is greater than that of without work.
 
 
 Notations:
@@ -76,7 +77,9 @@ The two populations refer to the sub-group of wifes with both parents with atlea
 
 1.   Null hypothesis: The proportions of wives working for the two populations are equal.
 
-2.   Alternative hypothesis: The proportions of wives working for the two populations are different. (More specifically, the proportions of wives working is lower for those with both parents with atleast 7 years of education)
+2.   Alternative hypothesis: The proportions of wives working for the two populations are different.
+     (More specifically, the proportions of wives working is lower for those with both parents 
+      with atleast 7 years of education)
 
 
 Notations:
