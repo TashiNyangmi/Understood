@@ -1,5 +1,7 @@
 
 # Understood Take Home <br>
+###### Assignment 1 = Understood_org1.ipynb
+###### Assignment 2 = Understood_org2.ipynb
 #### google colab notebook (Understood_org2.ipynb) structure
 ```
 1.Setting up the Environment: Importing Libraries and Dataset
