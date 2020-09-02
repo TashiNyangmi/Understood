@@ -4,7 +4,9 @@
 [Google Colab Link I](https://colab.research.google.com/drive/1XEbJzKbNOWP1kOECGX2HlsGWnMjuY9Q0?usp=sharing)
 ###### Assignment 2 = Understood_org2.ipynb
 [Google Colab Link II](https://colab.research.google.com/drive/1ymiPzweYBdBuB0-05ZTW1nSAAri3j2BZ?usp=sharing)
-#### google colab notebook (Understood_org2.ipynb) structure
+###### Assignment 2 Analysis Summary
+
+#### Structure
 ```
 1.Setting up the Environment: Importing Libraries and Dataset
 2. User Defined Functions
@@ -27,7 +29,6 @@
           4.3.2) Visualization
 
 ```
-## Analysis Summary
 ### 3 Hypotheses
 Data Dictionary (Mroz) : https://rdrr.io/rforge/Ecdat/man/Mroz.html <br>
 Pre-determined alpha = 0.05
