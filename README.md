@@ -6,7 +6,7 @@
 [Google Colab Link II](https://colab.research.google.com/drive/1ymiPzweYBdBuB0-05ZTW1nSAAri3j2BZ?usp=sharing)
 
 <hr>
-#### Assignment 2 Analysis Summary 
+#### Assignment 2 Analysis Summary ####
 
 #### Structure
 ```
