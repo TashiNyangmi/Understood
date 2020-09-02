@@ -29,8 +29,10 @@
      4.3) Hypothesis #1
           4.3.1) Test
           4.3.2) Visualization
-
+         
 ```
+<hr>
+
 ### 3 Hypotheses
 Data Dictionary (Mroz) : https://rdrr.io/rforge/Ecdat/man/Mroz.html <br>
 Pre-determined alpha = 0.05
